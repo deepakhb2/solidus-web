@@ -54,3 +54,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "solidus", path: '/Users/deepak/Projects/opensource/Gems/solidus'
+gem "solidus_auth_devise", path: '/Users/deepak/Projects/opensource/Gems/solidus_auth_devise'
